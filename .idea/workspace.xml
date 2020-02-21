@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a71d463c-6971-4d57-9f0c-79b864d721db" name="Default Changelist" comment="" />
+    <list default="true" id="a71d463c-6971-4d57-9f0c-79b864d721db" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/basic.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logRegSentiment.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/lrBasic.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/optimized.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/optimized.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,12 +20,12 @@
       </list>
     </option>
   </component>
-  <component name="JupyterTrust" id="9abc107d-d0ce-4e19-9810-fc71c821c421">
-    <option name="files">
-      <option value="main.ipynb" />
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="9abc107d-d0ce-4e19-9810-fc71c821c421" />
   <component name="ProjectId" id="1XnvyGwYeYjqEJG9VHZsV36iHEY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,6 +33,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -43,6 +50,7 @@
       <workItem from="1581694941756" duration="1375000" />
       <workItem from="1581696476561" duration="2977000" />
       <workItem from="1581829479303" duration="2979000" />
+      <workItem from="1582272228293" duration="5570000" />
     </task>
     <servers />
   </component>
@@ -50,6 +58,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1320" height="172" key="GridCell.Tab.0.bottom" timestamp="1582280309646">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="172" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1582280309646" />
+    <state width="1320" height="172" key="GridCell.Tab.0.center" timestamp="1582280309645">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="172" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1582280309645" />
+    <state width="1320" height="172" key="GridCell.Tab.0.left" timestamp="1582280309644">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="172" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1582280309644" />
+    <state width="1320" height="172" key="GridCell.Tab.0.right" timestamp="1582280309645">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="172" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1582280309645" />
     <state x="172" y="32" key="SettingsEditor" timestamp="1581697398636">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
