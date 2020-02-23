@@ -12,6 +12,7 @@ keras-utils = "*"
 tensorflow = "*"
 sklearn = "*"
 nltk = "*"
+xgboost = "*"
 
 [requires]
 python_version = "3.7"

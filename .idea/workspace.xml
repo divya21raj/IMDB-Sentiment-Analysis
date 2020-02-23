@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a71d463c-6971-4d57-9f0c-79b864d721db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/basic.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logRegSentiment.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/lrBasic.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/optimized.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/optimized.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,14 +46,31 @@
       <workItem from="1581694941756" duration="1375000" />
       <workItem from="1581696476561" duration="2977000" />
       <workItem from="1581829479303" duration="2979000" />
-      <workItem from="1582272228293" duration="5570000" />
+      <workItem from="1582272228293" duration="6294000" />
+      <workItem from="1582296706646" duration="54000" />
     </task>
+    <task id="LOCAL-00001" summary="Pickled the Optimized and SVM models">
+      <created>1582294568354</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582294568354</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Pickled the Optimized and SVM models" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pickled the Optimized and SVM models" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="220" y="27" width="915" height="741" key="CommitChangelistDialog2" timestamp="1582294567421">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="220" y="27" width="915" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1582294567421" />
     <state width="1320" height="172" key="GridCell.Tab.0.bottom" timestamp="1582280309646">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -78,5 +91,9 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="172" y="32" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1581697398636" />
+    <state x="278" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1582295104329">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1582295104329" />
   </component>
 </project>
